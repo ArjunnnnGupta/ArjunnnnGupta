@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ArjunGupta, a passionate coder from India.
-- 👀 I’m interested in Data analysis,Open Source Software development
+- 👀 I’m interested in Data analysis,Software Development,Open Source Software development
 - 🌱 I’m currently learning Nodejs,React
 - 📫 How to reach me mandyarjun@gmail.com
 - 😄 Pronouns: He/him
